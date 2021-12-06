@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.header-box {
+  background-color: honeydew;
+  height: 200px;
+  width: 200px;
+}
+
+.middle-box {
+  background-color: hotpink;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-box {
+  background-color: indigo;
+  height: 200px;
+  width: 200px;
+}
